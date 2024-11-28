@@ -1,0 +1,5 @@
+# Created at 2024-11-28T17:22:22.208
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ExamenWCBDF2_COFC\cofc (2)\cofc\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

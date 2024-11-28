@@ -1,0 +1,6 @@
+com\examen\cofc\Controllers\InventoryController.class
+com\examen\cofc\Repositories\InventoryRepository.class
+com\examen\cofc\CofcApplication.class
+com\examen\cofc\Services\InventoryService.class
+com\examen\cofc\Entities\InventoryEntity.class
+com\examen\cofc\Config\OpenApiConfiguration.class
